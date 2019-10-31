@@ -1,0 +1,6 @@
+[submodule "cphb"]
+	path = cphb
+	url = https://github.com/landcold7/cphb.git
+[submodule "cp-geo"]
+	path = cp-geo
+	url = https://github.com/landcold7/cp-geo.git
