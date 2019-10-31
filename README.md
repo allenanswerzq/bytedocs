@@ -1,4 +1,4 @@
-#### A full documents container  about algorithm
+#### A set of docs and pdfs all about algorithm
 
-Original came from here: (https://github.com/oeddyo/algorithm)
+Taken some docs from this repo: (https://github.com/oeddyo/algorithm)
 
